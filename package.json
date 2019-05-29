@@ -1,7 +1,6 @@
 {
   "name": "redux-namespace",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "lint": "prettier '**/*.js'",
@@ -17,5 +16,17 @@
   },
   "dependencies": {
     "nanoid": "^2.0.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antialias/redux-namespace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antialias/redux-namespace/issues"
+  },
+  "homepage": "https://github.com/antialias/redux-namespace#readme",
+  "description": ""
 }
