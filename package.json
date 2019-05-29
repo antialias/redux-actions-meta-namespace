@@ -1,0 +1,21 @@
+{
+  "name": "redux-namespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "prettier '**/*.js'",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "prettier": "^1.17.1",
+    "redux-actions": "^2.6.5"
+  },
+  "dependencies": {
+    "nanoid": "^2.0.3"
+  }
+}
