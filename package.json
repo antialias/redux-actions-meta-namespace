@@ -1,5 +1,5 @@
 {
-  "name": "redux-namespace",
+  "name": "redux-actions-meta-namespace",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antialias/redux-namespace.git"
+    "url": "git+https://github.com/antialias/redux-actions-meta-namespace.git"
   },
   "bugs": {
-    "url": "https://github.com/antialias/redux-namespace/issues"
+    "url": "https://github.com/antialias/redux-actions-meta-namespace/issues"
   },
-  "homepage": "https://github.com/antialias/redux-namespace#readme",
+  "homepage": "https://github.com/antialias/redux-actions-meta-namespace#readme",
   "description": ""
 }
