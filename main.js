@@ -26,10 +26,8 @@ ReduxNamespace.prototype.reducer = function(reducer) {
       action.meta.namespace &&
       action.meta.namespace === namespace
     ) {
-      console.log("our namespace");
       return reducer(state, action);
     }
-    console.log("not our namespace", action);
     if (undefined === state) {
       return reducer(undefined, {});
     }
